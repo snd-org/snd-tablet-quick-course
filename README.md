@@ -4,6 +4,8 @@ Greetings from SND.
 ## About
 We'll be starting each day at 9 a.m. and wrapping up at 5 p.m. You will receive an email before the class with instructions on location specific instructions.
 
+[Check out the full schedule](https://docs.google.com/document/d/1kiNZImhPv-mv7vFp2Sd3sbnF1F1f4BqTwxc9soOciHQ/edit?usp=sharing)
+
 
 ## To do
 You'll need to have a few thing preloaded onto your laptops before arriving to class to get the absolute most out of these sessions. All of these resources are open source or free to try.

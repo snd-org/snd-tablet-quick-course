@@ -11,12 +11,12 @@ We'll be starting each day at 9 a.m. and wrapping up at 5 p.m. You will receive 
 You'll need to have a few thing preloaded onto your laptops before arriving to class to get the absolute most out of these sessions. All of these resources are open source or free to try.
 
 ### Fill out a survey
-Please fill out this survey in advance of the upcoming session so that they may tailor the curriculum to the session that you are in. This allows us to trim down on our learning curve as we only have a limited time together in the classroom.
+Please fill out [this survey](http://goo.gl/forms/V4nXMUOaMG) in advance of the upcoming session so that they may tailor the curriculum to the session that you are in. This allows us to trim down on our learning curve as we only have a limited time together in the classroom.
 There is no wrong answer here. Please be as truthful as possible so that we have the best chance to help you grow.
 
-http://goo.gl/forms/V4nXMUOaMG
+[Direct link to survey](http://goo.gl/forms/V4nXMUOaMG)
 
-### Download this code
+### Download the class code
 
 1. Go to https://github.com/snd-org/snd-tablet-quick-course
 2. Click download zip in the right rail

@@ -10,7 +10,7 @@ We'll be starting each day at 9 a.m. and wrapping up at 5 p.m. You will receive 
 ## To do
 You'll need to have a few thing preloaded onto your laptops before arriving to class to get the absolute most out of these sessions. All of these resources are open source or free to try.
 
-### Fill out this form
+### Fill out a survey
 Please fill out this survey in advance of the upcoming session so that they may tailor the curriculum to the session that you are in. This allows us to trim down on our learning curve as we only have a limited time together in the classroom.
 There is no wrong answer here. Please be as truthful as possible so that we have the best chance to help you grow.
 
